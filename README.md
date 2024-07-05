@@ -1,5 +1,5 @@
-## Intership 2023
-Supported by the AUEB Intership Program
+## Internship 2023
+Supported by the AUEB Internship Program
 
 This repository contains my final report of my practical training as a Full Stack developer
 
